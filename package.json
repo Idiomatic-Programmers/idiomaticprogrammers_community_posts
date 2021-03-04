@@ -1,0 +1,20 @@
+{
+  "name": "idiomaticprogrammers_community_posts",
+  "version": "1.0.0",
+  "dependencies": {},
+  "description": "If you want to write an article to idiomaticprogrammers.com, follow the instructions in the README.md file",
+  "main": "create_post.js",
+  "scripts": {
+    "start": "node create_post.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Idiomatic-Programmers/idiomaticprogrammers_community_posts"
+  },
+  "author": "Idiomatic Programmers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Idiomatic-Programmers/idiomaticprogrammers_community_posts/issues"
+  },
+  "homepage": "https://idiomaticprogrammers.com"
+}

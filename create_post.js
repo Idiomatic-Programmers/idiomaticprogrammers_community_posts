@@ -35,7 +35,7 @@ rl.question("What will be the title of your post? 📄 ", (title)=>{
                 })
 
                 let date = new Date().toISOString()
-                date = date.split(':')[0]+":00.000+05:30"
+                date = date.split(':')[0]+":00:00.000+05:30"
 
                 const metadata = `---
 title: ${title}
